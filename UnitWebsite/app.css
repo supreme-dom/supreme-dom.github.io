@@ -1,0 +1,55 @@
+body, p  {
+    text-align: center;
+    background-color: gray;
+    color: white;
+}
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+h1 {
+    font-size: 36px;
+}
+h1 {
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+ul {
+    padding: 10px;
+    background: rgba(0,0,0,0.5);
+}
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+header {
+    Text-align: center;
+	background: url('images/supremee.png');
+	background-size: cover;
+    padding: 100px 0px 0px 0px ;
+    color: black;
+}
+a,li {
+    color: white;
+}
+#dw {
+    font-size: 70px;
+    text-align: center;
+}
+#head-pic {
+    height: 200px;
+    border-radius: 40%;
+    border: 5px solid white;
+}
+
+article {
+    width: 500px;
+    padding-left: 625px;
+    text-align: center;
+}
+.h1-me {
+    padding-left: 825px;
+    text-align: left;
+}
