@@ -25,11 +25,11 @@ li {
     padding: 0px 10px 0px 10px;
 }
 header {
-    Text-align: center;
+	text-align: center;
 	background: url('images/supremee.png');
 	background-size: cover;
-    padding: 100px 0px 0px 0px ;
-    color: black;
+	padding: 100px 0px 0px 0px ;
+    	color: black;
 }
 a,li {
     color: white;
