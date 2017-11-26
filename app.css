@@ -32,6 +32,7 @@ header {
 }
 a,li {
     color: white;
+    padding: 0px 10px 0px 0px;
 }
 #dw {
     font-size: 70px;
