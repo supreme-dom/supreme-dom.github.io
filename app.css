@@ -31,9 +31,9 @@ ul {
 }
 header {
 	text-align: center;
-	background: url('https://upload.wikimedia.org/wikipedia/commons/2/23/Supreme-logo-newyork.png') class="headerimg";
-	background-size: small;
-	padding: 100px 0px 0px 0px ;
+	background: url('https://upload.wikimedia.org/wikipedia/commons/2/23/Supreme-logo-newyork.png');
+	background-size: cover;
+	padding: 50px 0px 0px 0px ;
     	color: black;
 }
 a,li {
